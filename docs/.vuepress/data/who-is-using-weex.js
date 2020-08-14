@@ -311,5 +311,12 @@ export default [
     icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/14/e3/0b14e352-008d-dcbe-61fd-69f3d4ca3bca/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/246x0w.png',
     iOS:'https://apps.apple.com/cn/app/id1268483731',
     android: 'https://sj.qq.com/myapp/detail.htm?apkName=com.zhaopin.ihr'
+  },
+  {
+    name_CN: '垃圾管理系统',
+    name_EN: 'zhilian zhoapin qiye',
+    icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/14/e3/0b14e352-008d-dcbe-61fd-69f3d4ca3bca/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/246x0w.png',
+    iOS:'https://apps.apple.com/cn/app/id1268483731',
+    android: 'https://sj.qq.com/myapp/detail.htm?apkName=com.zhaopin.ihr'
   }
 ];
